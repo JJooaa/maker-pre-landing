@@ -29,3 +29,17 @@ export const highlightsArray = [
     img: remoteImg,
   },
 ];
+
+export const freeList = [
+  "Unlimited products",
+  "Basic analytics",
+  "Limited marketplace exposure",
+  "10% fee per transaction",
+];
+
+export const paidList = [
+  "Custom domain",
+  "Advanced analytics and reports",
+  "High marketplace visibility",
+  "5% fee per transaction",
+];
